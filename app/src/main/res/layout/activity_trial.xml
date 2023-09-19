@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:backgroundTint="@color/blue2">
+
+    <ImageView
+        android:id="@+id/imageview"
+        android:layout_width="377dp"
+        android:layout_height="470dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="40dp"
+        android:layout_marginBottom="163dp"
+        android:contentDescription="@string/app_name"
+        android:src="@drawable/krsnabalaram"
+        app:srcCompat="@drawable/krsnabalaram"
+        tools:srcCompat="@drawable/krsnabalaram" />
+
+
+    <ImageView
+        android:id="@+id/diya"
+        android:layout_width="97dp"
+        android:layout_height="80dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="40dp"
+        android:layout_marginBottom="111dp"
+        android:contentDescription="@string/app_name"
+        android:src="@drawable/diyaicon"
+        app:srcCompat="@drawable/diyaicon"
+        tools:srcCompat="@drawable/diyaicon" />
+
+    <ImageView
+        android:id="@+id/lotus1"
+        android:layout_width="97dp"
+        android:layout_height="80dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="40dp"
+        android:layout_marginEnd="72dp"
+        android:layout_marginBottom="41dp"
+        android:contentDescription="@string/app_name"
+        android:src="@drawable/lotusicon"
+        app:srcCompat="@drawable/lotusicon"
+        tools:srcCompat="@drawable/lotusicon" />
+
+    <ImageView
+        android:id="@+id/lotus2"
+        android:layout_width="97dp"
+        android:layout_height="80dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="40dp"
+        android:layout_marginEnd="11dp"
+        android:layout_marginBottom="80dp"
+        android:contentDescription="@string/app_name"
+        android:src="@drawable/lotusicon"
+        app:srcCompat="@drawable/lotusicon"
+        tools:srcCompat="@drawable/lotusicon" />
+
+    <ImageView
+        android:id="@+id/lotus3"
+        android:layout_width="97dp"
+        android:layout_height="80dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="73dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginBottom="41dp"
+        android:contentDescription="@string/app_name"
+        android:src="@drawable/lotusicon"
+        app:srcCompat="@drawable/lotusicon"
+        tools:srcCompat="@drawable/lotusicon" />
+
+    <ImageView
+        android:id="@+id/lotus4"
+        android:layout_width="97dp"
+        android:layout_height="80dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="40dp"
+        android:layout_marginBottom="77dp"
+        android:contentDescription="@string/app_name"
+        android:src="@drawable/lotusicon"
+        app:srcCompat="@drawable/lotusicon"
+        tools:srcCompat="@drawable/lotusicon" />
+
+
+</RelativeLayout>

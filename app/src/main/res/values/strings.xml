@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Sadhana</string>
+    <string name="rounds">Rounds</string>
+    <string name="_0">0</string>
+    <string name="reset">Reset</string>
+    <string name="temple_name">Temple name</string>
+    <string name="sri_krishna_balaram">Sri Krishna Balaram</string>
+    <string name="diya">diya</string>
+    <string name="www_vedabase_io">www.vedabase.io</string>
+    <string name="www_vedabase_io_new">www.vedabase.io</string>
+    <string name="rounds_chanted">Rounds Chanted</string>
+    <string name="wake_up_time">Wake up time</string>
+</resources>
